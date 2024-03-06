@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=)
 # <div align=center> 👩🏻‍💻 Backend Developer </div>
 
-## 🛠️ Once I've Used
+## <div align=center> 🛠️ Once I've Used <div>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
